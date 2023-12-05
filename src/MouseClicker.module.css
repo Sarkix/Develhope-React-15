@@ -1,0 +1,7 @@
+.button {
+    background-color: beige;
+}
+
+.button:hover{
+    background-color: azure;
+}
